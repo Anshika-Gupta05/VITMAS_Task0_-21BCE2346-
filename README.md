@@ -1,5 +1,5 @@
 # VITMAS_Task0_-21BCE2346-
-## Git Commands
+## Basic Git Commands
 
 1 git config
 
