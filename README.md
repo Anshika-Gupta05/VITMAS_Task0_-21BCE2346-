@@ -24,6 +24,7 @@ This command is used to obtain a repository from an existing URL.
 
           git add [file]
 This command adds a file to the staging area.
+          
           git add *
 This command adds one or more to the staging area.
 
@@ -32,6 +33,7 @@ This command adds one or more to the staging area.
 
           git commit -m "[ Type in the commit message]"
 This command change the head and records or snapshots the file permanently in the version history with a message.
+          
           git commit -a
 This command commits any files you've added with the git add command and also commits any files you've changed since then.
 
@@ -56,8 +58,10 @@ This command will pull everything from the remote server onto your local reposit
    
           git branch
 This command lists all the branches available in the local repository.
-          git branch [branch_name]
+         
+         git branch [branch_name]
 This command creates a new branch.
+          
           git branch -d [branch_name]
 This command deletes a branch.
 
@@ -70,7 +74,8 @@ This command is used to merge the spevified branch's history into the current br
 
           git checkout [branch_name]
 This command is used to switch from one branch to another.
-          git checkout -b [branch_name]
+         
+         git checkout -b [branch_name]
 This command is used to create a new branch and switch to the created new branch.
 
 12 git log
