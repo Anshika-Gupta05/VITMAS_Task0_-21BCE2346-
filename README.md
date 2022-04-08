@@ -32,8 +32,7 @@ This command adds one or more to the staging area.
 5 git commit
 
           git commit -m "[ Type in the commit message]"
-This command change the head and records or snapshots the file permanently in the version history with a message.
-          
+This command change the head and records or snapshots the file permanently in the version history with a message         
           git commit -a
 This command commits any files you've added with the git add command and also commits any files you've changed since then.
 
@@ -87,3 +86,5 @@ This command is used to check the commit history in a git repository.
  
           git remote add origin [remote server link]
 This command is used to connect your local repository to the remote server.
+## You Tube Github commands demonstration Link:
+https://youtu.be/wuTF1ZwTZ8c
